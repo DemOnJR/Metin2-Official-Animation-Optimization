@@ -6,7 +6,7 @@
 
 [![BLACK](https://img.youtube.com/vi/KknowIXeFwI/maxresdefault.jpg)](https://youtu.be/KknowIXeFwI)
 
-![1](https://github.com/blackdragonx61/Metin2-Official-Animation-Optimization/assets/118901736/7bb16fae-e3b5-4e0a-a919-9b721bef0c64)
+![1](https://github.com/blackdragonx61/Metin2-Official-Animation-Optimization/assets/118901736/3244abf1-c902-485b-8eea-736e417ec8d6)
 
 Requirements
 -----------
