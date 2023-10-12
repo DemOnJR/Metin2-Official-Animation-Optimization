@@ -1,0 +1,5 @@
+OPTION_ATTACKED_MOTION	Animations
+OPTION_ATTACKED_MOTION_ALL	Normal
+OPTION_ATTACKED_MOTION_ALL_DESC	Show all melee animations.
+OPTION_ATTACKED_MOTION_SELF	Performance
+OPTION_ATTACKED_MOTION_SELF_DESC	Hide certain melee animations except those of the player and target.
